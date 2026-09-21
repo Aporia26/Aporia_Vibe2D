@@ -1,0 +1,18 @@
+# Ignore standard IDE/system folders
+.vscode/
+build/
+dist/
+node_modules/
+
+# Ignore ALL Blender files completely
+*.blend
+*.blend1
+*.blend2
+
+# Ignore ALL heavy image textures
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.exr
+*.tiff
